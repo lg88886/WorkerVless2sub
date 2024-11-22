@@ -1,4 +1,4 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,鍥炴簮绔彛,TLS,鏁版嵁涓績,鍦板尯,鍥藉,鍩庡競,TCP寤惰繜(ms),閫熷害(MB/s)
 34.70.91.86,443,443,TRUE,ORD,North America,US,Chicago,290,8.73
 34.69.150.180,443,443,TRUE,ORD,North America,US,Chicago,305,8.71
 34.69.150.180,443,443,TRUE,ORD,North America,US,Chicago,226,8.69
